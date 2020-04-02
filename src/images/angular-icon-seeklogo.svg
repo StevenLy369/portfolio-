@@ -1,0 +1,29 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 254.33 269.41">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b3b3b3;
+      }
+
+      .cls-2 {
+        fill: #a6120d;
+      }
+
+      .cls-3 {
+        fill: #dd1b16;
+      }
+
+      .cls-4 {
+        fill: #f2f2f2;
+      }
+    </style>
+  </defs>
+  <title>angular-icon-seeklogo</title>
+  <g>
+    <path class="cls-1" d="M297.24,286.29,170.49,330.9l20,166.07L297.38,555.7l107.41-59.53,20-166.06Z" transform="translate(-170.49 -286.29)"/>
+    <path class="cls-2" d="M412.17,339.7,297,300.41V541.67l96.56-53.44Z" transform="translate(-170.49 -286.29)"/>
+    <path class="cls-3" d="M184.71,340.41l17.17,148.53L297,541.67V300.41Z" transform="translate(-170.49 -286.29)"/>
+    <path class="cls-4" d="M328.66,428.84,297,443.67H263.52L247.81,483l-29.23.54L297,309.17l31.71,119.67Zm-3.06-7.46-28.44-56.31-23.33,55.34H297l28.65,1Z" transform="translate(-170.49 -286.29)"/>
+    <path class="cls-1" d="M297,309.17l.21,55.9,26.47,55.38H297L297,443.64l36.81,0L351,483.53l28,.51Z" transform="translate(-170.49 -286.29)"/>
+  </g>
+</svg>

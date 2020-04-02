@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1281.65 1024">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #191919;
+      }
+
+      .cls-2 {
+        fill: #0c0c0c;
+      }
+
+      .cls-3 {
+        fill: #111;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        fill: #2b2b2b;
+        opacity: 0.63;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-7 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-20.98" y1="733.65" x2="293.56" y2="704.39" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#242424"/>
+      <stop offset="1" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="10.98" y1="878.22" x2="1285.98" y2="759.62" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>BCK3</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <rect class="cls-1" x="1.15" y="0.5" width="1279" height="1023"/>
+      <path d="M1279,1V1023H1V1H1279m1-1H0V1024H1280V0Z" transform="translate(0.65)"/>
+    </g>
+  </g>
+  <g id="Layer_4" data-name="Layer 4">
+    <path class="cls-2" d="M0,140.2S417,116,653,201s405,130.36,627.5,107.68c-.5,214.32,0,714.32,0,714.32H0Z" transform="translate(0.65)"/>
+  </g>
+  <g id="Layer_3" data-name="Layer 3">
+    <path class="cls-3" d="M0,412.36S526.5,511.5,875.5,462.5s405-44.38,405-44.38l-.58,381.6H0Z" transform="translate(0.65)"/>
+  </g>
+  <g id="Layer_7" data-name="Layer 7">
+    <path class="cls-4" d="M0,412s392,80,294.48,612C0,1023,0,1024,0,1024Z" transform="translate(0.65)"/>
+  </g>
+  <g id="Layer_5" data-name="Layer 5">
+    <path class="cls-5" d="M.18,857.33S-18.5,696.5,121.5,693.5s393-188,445-9,0,339.5,0,339.5l-566-.5L.18,857.33" transform="translate(0.65)"/>
+  </g>
+  <g id="Layer_6" data-name="Layer 6">
+    <path class="cls-6" d="M.1,820.11S455,800,559,699,872,564,945,542s335.5-44.68,335.5-44.68V1023H0V820.11" transform="translate(0.65)"/>
+  </g>
+  <g id="Layer_2" data-name="Layer 2">
+    <path class="cls-7" d="M0,766.6s309.5,7.9,668.5-47.1,472-83.32,611.5-66.66c-.5,94.66.5,370.66.5,370.66H.5Z" transform="translate(0.65)"/>
+  </g>
+  <g id="Layer_8" data-name="Layer 8">
+    <path class="cls-3" d="M567.72,0S1163,26.8,1280.5,255.4C1280,128,1280,0,1280,0Z" transform="translate(0.65)"/>
+  </g>
+</svg>
